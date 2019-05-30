@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+    background-color: #B1E5FF;
+    
+}
+
+#kealogo{
+    width: 54%;
+    height: auto;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+#loginform{
+    width: 270px;
+    border: none;
+    margin: auto;
+    margin-top: 2em;
+    padding: 9am; 1am;
+    font-family: avenir;
+    color: #253247;
+}
+
+
+h2{
+    margin: 10px;
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 45px;
+}
+
+
+input{
+    display: block;
+    margin-bottom: 1em;
+    width: 80%;
+    border: none;
+    padding: 0.7em;
+    margin-left: 15px;
+    background-color: white;
+}
+
+label{
+    margin-top: 2em;
+    color: #253247;
+    margin-left: 15px;
+    padding: 0px;
+    
+}
+
+input[type="submit"]{
+    margin-top: 2em;
+    width: 213px;
+    font-family: avenir;
+    background-color: #d95b4d;
+    color: white;
+    padding: .5em;
+    font-size: 15px;
+    margin-bottom: 2em;
+}
+
